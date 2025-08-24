@@ -62,7 +62,7 @@ Optimal tree depth was found by plotting cross-validated scores for depths 2–2
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/koh-jiahao/Investment-Grade-Classifier.git
+    git clone https://github.com/koh-jiahao/investment-grade-classifier.git
     cd credit-grade-classification
 
 
