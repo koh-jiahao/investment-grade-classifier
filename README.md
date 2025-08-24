@@ -6,6 +6,7 @@ This repository contains a Jupyter Notebook that classifies corporate companies 
 
 based on financial and categorical indicators.
 
+---
 
 <h2>📌 Project Overview</h2>
 
@@ -46,8 +47,8 @@ The Decision Tree model, when optimized via cross-validation, generally performs
 Optimal tree depth was found by plotting cross-validated scores for depths 2–29.
 
 
-
-<h1>📁 Files</h1>
+---
+<h2>📁 Files</h2>
 
 - **IVgrade_classification.ipynb**: Main notebook with all data processing, model training, evaluation, and plots.
 
@@ -56,23 +57,23 @@ Optimal tree depth was found by plotting cross-validated scores for depths 2–2
 - **corporateCreditRatingWithFinancialRatios.csv**: Data file
 
 
-
+---
 <h1>🧪 How to Use</h1>
 
 1. Clone the repository:
-
-        git clone https://github.com/koh-jiahao/Investment-Grade-Classifier.git
-        cd credit-grade-classification
+    ```bash
+    git clone https://github.com/koh-jiahao/Investment-Grade-Classifier.git
+    cd credit-grade-classification
 
 
 2. Install dependencies:
-
-        pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 
 3. Launch the notebook:
-
-        jupyter notebook
+    ```bash
+    jupyter notebook
 
 
 4. Open the .ipynb file and run the cells.
